@@ -1,0 +1,3 @@
+[submodule "nomina_quadit"]
+	path = nomina_quadit
+	url = git@gitlab.com:xmarts/nomina_quadit.git
